@@ -20,9 +20,9 @@ Para ver o projeto em tempo real:
 
 <a href = "https://covid-19-dash-asimov.herokuapp.com/"><img src="https://img.shields.io/badge/ASIMOV-Projeto%20em%20tempo%20real-lightgrey" target="_blank"></a> 
 
-## 👨‍💻 Tecnologias Utilizadas:
+## 👨‍💻 Tecnologias Utilizadas
 
-Utilizando apenas **PYTHON** e as bibliotecas
+Utilizando apenas **PYTHON** e as bibliotecas:
 > - Dash
 > - Dash Bootstrap Components
 > - Plotly
