@@ -1,7 +1,6 @@
 ![2](https://user-images.githubusercontent.com/63136680/171272633-639af188-81c2-4575-81d5-c4092fe29328.jpg)
 
 
-
 # Dashboard de análise de dados da Covid-19
 Este é um projeto em que ensinamos a construir um Dashboard interativo para análise de dados do comportamento do Coronavírus no Brasil.
 O projeto é alimentado por uma base pública no formato csv. Para a criação do mapa, usamos a API do Mapbox.
